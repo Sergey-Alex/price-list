@@ -1,0 +1,4 @@
+[0104/120106.481:ERROR:file_io.cc(135)] WriteFile: Идет закрытие канала. (0xE8)
+[0104/120229.083:ERROR:file_io.cc(135)] WriteFile: Идет закрытие канала. (0xE8)
+[0104/120229.083:ERROR:file_io.cc(135)] WriteFile: Идет закрытие канала. (0xE8)
+[0104/121257.994:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
